@@ -1,6 +1,6 @@
 # WebstaurantStore Coding Assessment
 
-This repository contains my code for the WebstaurantStore coding assessment.
+This repository contains my project for the WebstaurantStore coding assessment. The relevant code can be found in [TableTest.java](src/test/java/com/webstaurantstore/tests/TableTest.java) and [pom.xml](pom.xml).
 
 
 Task:
